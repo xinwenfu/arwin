@@ -4,7 +4,7 @@ Really did not change anything of the original <a href="http://www.vividmachines
 
 The main purpose is to provide a Visual Studio project so that people can compile it under their own environment.
 
-Usage: arwin <Library Name> <Function Name> <br>
+Usage: arwin Library-Name Function-Name <br>
   Library name: no need to use the .dll extension
 
 Examples: <br>
