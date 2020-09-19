@@ -2,7 +2,7 @@
 
 Really did not change anything of the original <a href="http://www.vividmachines.com/shellcode/arwin.c">arwin</a>, the win32 address resolution program by steve hanna v.01. 
 
-The main purpose is to provide a Visual Studio project so that people can compile it under their own environment.
+The main purpose is to provide a Visual Studio project so that people can compile it in their own environment.
 
 # Usage
 arwin Library-Name Function-Name <br>
