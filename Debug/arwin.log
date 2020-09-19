@@ -1,0 +1,3 @@
+﻿  arwin.c
+C:\Tools\arwin-master\arwin\arwin.c(35,36): warning C4133: 'function': incompatible types - from 'char *' to 'LPCWSTR'
+  arwin.vcxproj -> C:\Tools\arwin-master\arwin\Debug\arwin.exe

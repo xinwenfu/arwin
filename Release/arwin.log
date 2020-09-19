@@ -1,0 +1,6 @@
+﻿  arwin.c
+  Generating code
+  Finished generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  arwin.vcxproj -> C:\Tools\arwin-master\arwin\Release\arwin.exe
