@@ -6,10 +6,10 @@ The main purpose is to provide a Visual Studio project so that people can compil
 
 Example use
 
-c:\Workshop>arwin ws2_32 WSASocketA
-arwin - win32 address resolution program - by steve hanna - v.01
-WSASocketA is located at 0x764b7140 in ws2_32
+c:\Workshop>arwin ws2_32 WSASocketA <br>
+arwin - win32 address resolution program - by steve hanna - v.01 <br>
+WSASocketA is located at 0x764b7140 in ws2_32 <br>
 
-c:\Workshop>arwin kernel32 CreateProcessA
-arwin - win32 address resolution program - by steve hanna - v.01
+c:\Workshop>arwin kernel32 CreateProcessA <br>
+arwin - win32 address resolution program - by steve hanna - v.01 <br>
 CreateProcessA is located at 0x75712da0 in kernel32
