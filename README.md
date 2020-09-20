@@ -1,4 +1,4 @@
-# arwin -- Visual C++ Project
+# arwin in Visual C++ Project
 
 Really did not change anything of the original <a href="http://www.vividmachines.com/shellcode/arwin.c">arwin</a>, the win32 address resolution program by steve hanna v.01. 
 
