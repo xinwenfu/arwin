@@ -9,7 +9,7 @@ The main purpose is to provide a Visual Studio project so that people can compil
 # Usage
 *arwin Library-Name Function-Name* <br>
 
-no need to use the .dll extension for the library name.
+No need to use the .dll extension for the library name.
 
 # Example use
 
